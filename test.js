@@ -73,7 +73,7 @@ describe("Tests", function() {
     })
 
 
-     it.skip('Data Sanity check', function(done){
+     it('Data Sanity check', function(done){
       var timezones = tz.getAll();
       for (var i = 0; i < timezones.length; i++) {
       
