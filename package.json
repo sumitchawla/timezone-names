@@ -1,0 +1,30 @@
+{
+  "name": "timezone-names",
+  "author": "Sumit Chawla",
+  "version": "0.0.3",
+  "description": "A simple library to get timezone offsets by names",
+  "keywords": [
+    "timezone",
+    "timezones",
+    "timezone offset"
+  ],
+  "homepage": "https://github.com/sumitchawla/timezone-names",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sumitchawla/timezone-names.git"
+  },
+  "dependencies": {
+    "data-structures": "1.4.2"
+  },
+  "devDependencies": {
+    "mocha": "1.20.1"
+  },
+  "main": "timezone-names",
+  "bugs": {
+    "url": "https://github.com/sumitchawla/timezone-names/issues"
+  },
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "license": "MIT"
+}
