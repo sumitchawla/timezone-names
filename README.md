@@ -49,10 +49,10 @@ Get all timezones objects.
  // Returns  Array of timezone objects 
  [
  { 
-  Offset: '-8 hours', //Offset String
-  Hours: -8, //Hours component
-  Minutes: 0, //Minutes Component
-  TotalMinutesOffset: -480  //Total Offset in Minutes
+   Abbreviation: 'PST',  //Abbreviation for the timezone
+   Name: 'Pacific Standard Time',  //Standard Name
+   DisplayName: 'Pacific Standard Time(UTC - 8)',  //Display String 
+   Offset: '-8 hours' //Offset string
  },
  .
  .
