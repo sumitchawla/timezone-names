@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/sumitchawla/timezone-names.svg?branch=master)](https://travis-ci.org/sumitchawla/timezone-names)
+
 # timezone-names
 A simple library to get timezone offsets. 
 
