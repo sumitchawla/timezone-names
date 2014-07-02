@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/sumitchawla/timezone-names.svg?branch=master)](https://travis-ci.org/sumitchawla/timezone-names)
 
 # timezone-names
-A simple library to get timezone offsets. 
+A simple library to get timezone offsets. Functions accept timezone names.  Abbreviations are not supported because same abbreviation is used for multiple timezones.
 
 ## Functions
  
