@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.org/sumitchawla/timezone-names.svg?branch=master)](https://travis-ci.org/sumitchawla/timezone-names)
+[![Dependency Status](https://david-dm.org/sumitchawla/timezone-names.png)](https://david-dm.org/sumitchawla/timezone-names) 
+[![devDependency Status](https://david-dm.org/sumitchawla/timezone-names/dev-status.png)](https://david-dm.org/sumitchawla/timezone-names#info=devDependencies)
 
 # timezone-names
 A simple library to get timezone offsets. Functions accept timezone names.  Abbreviations are not supported because same abbreviation is used for multiple timezones.
