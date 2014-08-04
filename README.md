@@ -21,7 +21,6 @@ Get timezone info object.
    Offset: '-8 hours' //Offset string
 }
 
-
 ```
 ### getTimezoneOffsetByName
 Get timezone offset.
