@@ -1,7 +1,7 @@
 {
   "name": "timezone-names",
   "author": "Sumit Chawla",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple library to get timezone offsets by names",
   "keywords": [
     "timezone",
