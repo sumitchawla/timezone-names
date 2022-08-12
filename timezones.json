@@ -3,7 +3,6 @@
 { "Abbreviation" :"ACDT", "Name": "Australian Central Daylight Time", "DisplayName": "Australian Central Daylight Time(UTC + 10:30)", "Offset": "10:30 hours"},
 { "Abbreviation" :"ACST", "Name": "Australian Central Standard Time", "DisplayName": "Australian Central Standard Time(UTC + 9:30)", "Offset": "9:30 hours"},
 { "Abbreviation" :"ADT", "Name": "Atlantic Daylight Time", "DisplayName": "Atlantic Daylight Time(UTC - 3)", "Offset": "-3 hours"},
-{ "Abbreviation" :"ADT", "Name": "Atlantic Daylight Time", "DisplayName": "Atlantic Daylight Time(UTC - 3)", "Offset": "-3 hours"},
 { "Abbreviation" :"AEDT", "Name": "Australian Eastern Daylight Time", "DisplayName": "Australian Eastern Daylight Time(UTC + 11)", "Offset": "11 hours"},
 { "Abbreviation" :"AEST", "Name": "Australian Eastern Standard Time", "DisplayName": "Australian Eastern Standard Time(UTC + 10)", "Offset": "10 hours"},
 { "Abbreviation" :"AFT", "Name": "Afghanistan Time", "DisplayName": "Afghanistan Time(UTC + 4:30)", "Offset": "4:30 hours"},
