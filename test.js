@@ -1,8 +1,8 @@
 var tz = require("./index.js");
 var assert = require("assert");
+var json = require("./timezones.json");
 
 describe("Tests", function() {
-
     it('Test Pacific Standard Time', function(done){
       var timezone = tz.getTimezoneByName('Pacific Standard Time');
       console.log(timezone);
@@ -86,6 +86,17 @@ describe("Tests", function() {
         console.log(timezone, offset);
       }
       
+      done();
+    })
+
+    it("Json duplicate check", function(done){
+      const check = {};
+      for(var data of json){
+        if(check[data.Name]){
+          assert.fail("Json duplicates in name detected");
+        }
+        check[data.Name] = true;
+      }
       done();
     })
 
